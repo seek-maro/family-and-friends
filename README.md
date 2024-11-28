@@ -4,7 +4,8 @@ Help us shaping the future of Maro by testing the browser extension below.
 
 ## How to test it on your local computer
 
-> Not sure how? Watch the step-by-step video: https://drive.google.com/file/d/1Ehz5p5S9zi3eHgb961eY7M5-bWnF97o1/view?usp=sharing
+> Not sure how? Watch the step-by-step video:
+> https://drive.google.com/file/d/1Ehz5p5S9zi3eHgb961eY7M5-bWnF97o1/view?usp=sharing
 
 1. Download the [maro-extension-0.0.12.zip](https://github.com/user-attachments/files/17949531/maro-extension-0.0.12.zip)
 2. Unzip it
