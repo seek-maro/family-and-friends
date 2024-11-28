@@ -6,8 +6,7 @@ Help us shaping the future of Maro by testing the browser extension below.
 
 https://github.com/user-attachments/assets/31a978b1-2edd-48a8-a57b-14d84405f213
 
-1. Download the [maro-extension-0.0.12.zip]([maro-extension-0.0.12.zip](https://github.com/user-attachments/files/17949531/maro-extension-0.0.12.zip)
-)
+1. Download the [maro-extension-0.0.12.zip](https://github.com/user-attachments/files/17949531/maro-extension-0.0.12.zip)
 2. Unzip it
 3. Open Chrome
 4. Go to the URL [chrome://extensions](#)
