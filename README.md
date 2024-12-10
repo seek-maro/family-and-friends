@@ -15,7 +15,7 @@ Help us shaping the future of Maro by testing the browser extension below.
 6. On the top left of the page, click "Load Unpacked"
 7. Find the unzipped folder made on step 2
 8. Navigate to the parent folder and click “Select”
-9. In the browser window, click the puzzle icon to the right of the URL bar to open Maro in Extensions
+9. In the browser window, click the Maro icon to the right of the URL bar to open Maro in Extensions
 10. Log in / create an account (note: passwords must include an uppercase letter, special character, and a number)
 11. Visit any website to see Maro’s phishing detection in action
 
